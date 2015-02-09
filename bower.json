@@ -35,7 +35,7 @@
   ],
   "dependencies": {
     "firebase": "2.1.x",
-    "ember": "1.9.x",
+    "ember": "^1.9.0",
     "ember-data": "1.0.0-beta.12"
   },
   "devDependencies": {
